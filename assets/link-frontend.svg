@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 30" width="108" height="30" role="img" aria-label="front-end">
+  <rect x=".5" y=".5" width="107" height="29" rx="15" fill="#0d1526" stroke="#2f4166"/>
+  <path d="M15 19 L22 12 M17 12 h5 v5" fill="none" stroke="#5eead4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="30" y="19.5" font-family="ui-monospace, &quot;SFMono-Regular&quot;, &quot;Cascadia Code&quot;, Consolas, monospace" font-size="12.5" fill="#cfe0f5">front-end</text>
+</svg>
